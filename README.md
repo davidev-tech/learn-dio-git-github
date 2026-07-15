@@ -22,20 +22,20 @@
 | **Versionamento Intermediário** | Branches, stash, histórico, manipulação de commits, merge, fork | 🚧 Em progresso |
 | **Versionamento Avançado** | Git Flow, CI/CD, hooks, submodules | ⏳ Planejado |
 
-> 💡 **Nota:** O curso básico está documentado em arquivos individuais. O intermediário está sendo registrado à medida que as aulas avançam.
+> 💡 **Nota:** O curso básico está documentado em arquivos individuais dentro da pasta `git-basico/`. O intermediário está sendo registrado à medida que as aulas avançam.
 
 ---
 
 ## 📂 Navegação
 
 ### 🌱 Curso Básico – Arquivos Disponíveis
-- [🖥️ Comandos do Terminal (Windows)](./terminal-windows.md)  
-- [🧱 Conceitos Fundamentais do Git](./conceitos-git.md)  
-- [⚙️ Configuração Inicial](./configuracao-inicial.md)  
-- [🚀 Repositório Local](./repositorio-local.md)  
-- [🔐 SSH e Acesso ao GitHub](./ssh-e-github.md)  
-- [🌐 Repositório Remoto](./repositorio-remoto.md)  
-- [🧠 Dicas Extras](./dicas-extras.md)  
+- [🖥️ Comandos do Terminal (Windows)](./git-basico/terminal-windows.md)  
+- [🧱 Conceitos Fundamentais do Git](./git-basico/conceitos-git.md)  
+- [⚙️ Configuração Inicial](./git-basico/configuracao-inicial.md)  
+- [🚀 Repositório Local](./git-basico/repositorio-local.md)  
+- [🔐 SSH e Acesso ao GitHub](./git-basico/ssh-e-github.md)  
+- [🌐 Repositório Remoto](./git-basico/repositorio-remoto.md)  
+- [🧠 Dicas Extras](./git-basico/dicas-extras.md)  
 
 ### 🌿 Curso Intermediário (Em Construção)
 - **Branches:** criação, navegação, renomeação e exclusão  
@@ -60,9 +60,9 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/davidev-tech/Trilha_Git_dio.git
+   git clone https://github.com/davidev-tech/DIO_Git_GitHub.git
    ```
-2. Acesse os arquivos `.md` para revisar anotações e comandos.
+2. Acesse os arquivos `.md` dentro da pasta `git-basico/` para revisar anotações e comandos.
 
 ---
 
@@ -80,13 +80,4 @@
 </div>
 ```
 
-### 🔧 Ajustes finos
-- Troque `dio-git-github` pelo nome real do repositório no link de clone.
-- Se os arquivos do básico estiverem em subpasta (ex.: `basico/`), ajuste os links adicionando a pasta antes do nome do arquivo.
-
-Sobre o **About** e **Tópicos** desse repositório:
-
-- **About sugerido:** `Anotações e exercícios dos cursos de Git e GitHub da DIO – do básico ao intermediário.`
-- **Tópicos:** `git`, `github`, `dio`, `versionamento`, `curso`, `markdown`, `documentacao`
-
-Seu repositório da DIO agora está padronizado e profissional como os demais. Quando quiser adicionar os arquivos detalhados do intermediário, é só me avisar que posso ajudar na estrutura.
+---
