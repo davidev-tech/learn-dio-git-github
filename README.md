@@ -78,6 +78,5 @@
 <div align="center">
   <em>“Dominar Git é o primeiro passo para colaborar com o mundo.”</em>
 </div>
-```
 
 ---
