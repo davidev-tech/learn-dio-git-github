@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git-basico/repositorio-remoto.md",
+                "file": "git-intermediario/conceitos-branchs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "repositorio-remoto"
+              "title": "conceitos-branchs"
             }
           }
         ],
@@ -210,11 +210,11 @@
   },
   "active": "5c631463a056748b",
   "lastOpenFiles": [
+    "git-basico/repositorio-remoto.md",
     "git-basico/README.md.md",
     "git-basico/terminal-windows.md",
     "git-basico/conceitos-git.md",
     "git-basico/configuracao-inicial.md",
-    "git-basico/repositorio-remoto.md",
     "git-basico/dicas-extras.md",
     "git-basico/ssh-e-github.md",
     "git-basico/repositorio-local.md",
