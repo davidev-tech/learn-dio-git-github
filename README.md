@@ -1,5 +1,3 @@
-Aqui está o README no mesmo padrão profissional e enxuto que usamos no Curso em Vídeo e no Boson Treinamentos. Sem excesso de comandos, apenas a estrutura clara, badges e links para os arquivos do curso básico, além da visão geral do intermediário. Copie e cole no seu repositório.
-
 ---
 
 <div align="center">
