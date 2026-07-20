@@ -11,6 +11,7 @@ git branch [nome_branch] : Cria uma Branch.
 git branch -m [novo_nome_branch] : Renomeia a Branch que você ja está.
 git branch -m [nome_branch] [novo_nome_branch] : Renomeia a Branch que você escolheu.
 git branch -d [nome_branch] : Deleta a Branch escolhida.
+git merge [nome_branch] : Funde a Branch que você está com a escolhida. 
 
 
 Git stash:
