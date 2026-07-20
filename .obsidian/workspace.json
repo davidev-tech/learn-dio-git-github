@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git-intermediario/git-comandos.md",
+                "file": "git-intermediario/estruturando-commits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-comandos"
+              "title": "estruturando-commits"
             }
           }
         ],
@@ -210,16 +210,20 @@
   },
   "active": "5c631463a056748b",
   "lastOpenFiles": [
+    "git-intermediario/git-comandos.md",
+    "git-intermediario/estruturando-commits.md",
     "git-intermediario/conceitos-branchs.md",
-    "git-basico/repositorio-remoto.md",
-    "git-basico/README.md.md",
-    "git-basico/terminal-windows.md",
-    "git-basico/conceitos-git.md",
-    "git-basico/configuracao-inicial.md",
+    "README.md",
+    "testanto2.md",
     "git-basico/dicas-extras.md",
+    "git-basico/repositorio-remoto.md",
     "git-basico/ssh-e-github.md",
     "git-basico/repositorio-local.md",
-    "git-intermediario/git-comandos.md",
+    "git-basico/configuracao-inicial.md",
+    "git-basico/conceitos-git.md",
+    "git-basico/terminal-windows.md",
+    "git-basico/README.md.md",
+    "diferente.txt",
     "git-avancado",
     "estudos_git_github/git.md",
     "estudos_git_github/Comandos_git_Windows.md",
