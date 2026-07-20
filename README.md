@@ -60,7 +60,7 @@
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/davidev-tech/DIO_Git_GitHub.git
+   git clone https://github.com/davidev-tech/learn-dio-git-github.git
    ```
 2. Acesse os arquivos `.md` dentro da pasta `git-basico/` para revisar anotações e comandos.
 
