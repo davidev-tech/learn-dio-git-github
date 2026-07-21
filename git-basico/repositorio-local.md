@@ -1,7 +1,3 @@
-
----
-
-
 # 🚀 Trabalhando com repositório local
 
 ```bash
