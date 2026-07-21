@@ -1,6 +1,3 @@
-
----
-
 ```markdown
 # Histórico de Commits
 
