@@ -1,7 +1,5 @@
 # Comandos remotos
 
-## Visualizar repositórios remotos
-
 ```bash
 git remote -v
 
