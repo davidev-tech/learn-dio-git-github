@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/DIO-FF6F00?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DIO" />
     <img src="https://img.shields.io/badge/B%C3%A1sico-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Básico" />
     <img src="https://img.shields.io/badge/Intermedi%C3%A1rio-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Intermediário" />
+    <img src="https://img.shields.io/badge/Avan%C3%A7ado-Em%20Andamento-yellow?style=for-the-badge" alt="Avançado" />
   </p>
   <p><em>Anotações e exercícios dos cursos de Git e GitHub da Digital Innovation One, organizados por nível de aprendizado.</em></p>
 </div>
@@ -20,9 +21,9 @@
 | :--- | :--- | :---: |
 | **Introdução ao Git e GitHub** | Fundamentos, configuração, repositórios local/remoto, SSH | ✅ Concluído |
 | **Versionamento Intermediário** | Branches, stash, histórico, manipulação de commits, merge, fork, boas práticas, SemVer | ✅ Concluído |
-| **Versionamento Avançado** | Forks (contribuição), permissões, organizações e times, pull request, issues, aliases | ⏳ Planejado |
+| **Versionamento Avançado** | Forks (contribuição), permissões, organizações e times, pull request, issues, aliases | 🚧 Em andamento |
 
-> 💡 **Nota:** Ambos os cursos estão documentados em arquivos Markdown organizados por tópico. O nível básico está na pasta `git-basico/` e o intermediário na pasta `git-intermediario/`.
+> 💡 **Nota:** Ambos os cursos concluídos estão documentados em arquivos Markdown organizados por tópico. O nível básico está na pasta `git-basico/` e o intermediário na pasta `git-intermediario/`. O conteúdo do avançado será adicionado conforme o curso progride.
 
 ---
 
@@ -62,7 +63,7 @@
 - [Histórico](./git-intermediario/04-comandos-git/historico.md) – `git log`, `oneline`, `graph`, `gitk`  
 - [Manipulação de Commits](./git-intermediario/04-comandos-git/manipulacao-commits.md) – `reset` (soft/mixed/hard) e `revert`  
 
-### 🚀 Curso Avançado (Planejado)
+### 🚀 Curso Avançado (Em andamento)
 - **Forks:** contribuição com repositórios de terceiros, sincronização com upstream  
 - **Permissões, organizações e times:** gerenciamento de acesso e equipes no GitHub  
 - **Pull Request:** criação, revisão, discussão e merge  
