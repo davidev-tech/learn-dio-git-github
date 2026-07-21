@@ -1,5 +1,3 @@
-
----
 # 🔐 Chave SSH e acesso ao GitHub
 
 ## Gerar e configurar chave SSH
