@@ -103,7 +103,3 @@ Segue o README completo atualizado. Pode copiar e colar diretamente no seu repos
 <div align="center">
   <em>“Dominar Git é o primeiro passo para colaborar com o mundo.”</em>
 </div>
-
----
-```
-
