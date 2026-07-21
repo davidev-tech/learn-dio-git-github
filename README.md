@@ -1,7 +1,5 @@
 ---
 
-
-
 <div align="center">
   <h1>📚 Versionamento de Código – Git & GitHub</h1>
   <p>
@@ -22,7 +20,7 @@
 | :--- | :--- | :---: |
 | **Introdução ao Git e GitHub** | Fundamentos, configuração, repositórios local/remoto, SSH | ✅ Concluído |
 | **Versionamento Intermediário** | Branches, stash, histórico, manipulação de commits, merge, fork, boas práticas, SemVer | ✅ Concluído |
-| **Versionamento Avançado** | Git Flow, CI/CD, hooks, submodules | ⏳ Planejado |
+| **Versionamento Avançado** | Forks (contribuição), permissões, organizações e times, pull request, issues, aliases | ⏳ Planejado |
 
 > 💡 **Nota:** Ambos os cursos estão documentados em arquivos Markdown organizados por tópico. O nível básico está na pasta `git-basico/` e o intermediário na pasta `git-intermediario/`.
 
@@ -64,6 +62,13 @@
 - [Histórico](./git-intermediario/04-comandos-git/historico.md) – `git log`, `oneline`, `graph`, `gitk`  
 - [Manipulação de Commits](./git-intermediario/04-comandos-git/manipulacao-commits.md) – `reset` (soft/mixed/hard) e `revert`  
 
+### 🚀 Curso Avançado (Planejado)
+- **Forks:** contribuição com repositórios de terceiros, sincronização com upstream  
+- **Permissões, organizações e times:** gerenciamento de acesso e equipes no GitHub  
+- **Pull Request:** criação, revisão, discussão e merge  
+- **Issues:** templates, labels, milestones, fechamento automático  
+- **Aliases:** criação de atalhos personalizados para comandos Git  
+
 ---
 
 ## 🛠️ Ferramentas Utilizadas
@@ -97,3 +102,6 @@
 <div align="center">
   <em>“Dominar Git é o primeiro passo para colaborar com o mundo.”</em>
 </div>
+
+---
+```
