@@ -1,7 +1,3 @@
-
----
-
-
 ```markdown
 # Manipulando Commits (reset e revert)
 
