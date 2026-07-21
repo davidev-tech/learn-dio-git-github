@@ -1,8 +1,7 @@
 
 ---
 
-### 📄 `repositorio-local.md`
-```markdown
+
 # 🚀 Trabalhando com repositório local
 
 ```bash
