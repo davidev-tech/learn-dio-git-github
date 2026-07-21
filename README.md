@@ -1,9 +1,3 @@
-1. **Status do intermediário**: alterado para "Concluído" (badge verde) e tabela atualizada.
-2. **Navegação**: a seção do intermediário agora lista os arquivos organizados por tópico, com links (assumi que a pasta se chama `git-intermediario/` e contém as subpastas que estruturamos). Você pode ajustar os caminhos se a organização for diferente.
-3. **Pequeno ajuste de texto** para remover "Em construção".
-
-Segue o README completo atualizado. Pode copiar e colar diretamente no seu repositório.
-
 ---
 
 
