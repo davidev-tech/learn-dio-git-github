@@ -1,5 +1,3 @@
-
----
 # Fork
 
 Um **fork** é uma cópia completa do repositório inteiro para **outro repositório** (geralmente na sua conta pessoal em plataformas como GitHub, GitLab etc.).
