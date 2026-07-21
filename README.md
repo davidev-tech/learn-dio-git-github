@@ -6,8 +6,7 @@ Segue o README completo atualizado. Pode copiar e colar diretamente no seu repos
 
 ---
 
-```markdown
----
+
 
 <div align="center">
   <h1>📚 Versionamento de Código – Git & GitHub</h1>
@@ -108,4 +107,3 @@ Segue o README completo atualizado. Pode copiar e colar diretamente no seu repos
 ---
 ```
 
----
